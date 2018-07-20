@@ -12,3 +12,17 @@
 /Users/Teddy/Desktop/TestRepo/AngularTestRepo/backend/obj/Debug/netcoreapp2.1/backend.RazorTargetAssemblyInfo.cache
 /Users/Teddy/Desktop/TestRepo/AngularTestRepo/backend/obj/Debug/netcoreapp2.1/backend.dll
 /Users/Teddy/Desktop/TestRepo/AngularTestRepo/backend/obj/Debug/netcoreapp2.1/backend.pdb
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.csprojAssemblyReference.cache
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.csproj.CoreCompileInputs.cache
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cache
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cs
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfoInputs.cache
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfo.cs
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.dll
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.pdb
+C:\testProj\AngularTestRepo\backend\bin\Debug\netcoreapp2.1\backend.deps.json
+C:\testProj\AngularTestRepo\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.json
+C:\testProj\AngularTestRepo\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.dev.json
+C:\testProj\AngularTestRepo\backend\bin\Debug\netcoreapp2.1\backend.dll
+C:\testProj\AngularTestRepo\backend\bin\Debug\netcoreapp2.1\backend.pdb
+C:\testProj\AngularTestRepo\backend\obj\Debug\netcoreapp2.1\backend.RazorTargetAssemblyInfo.cache

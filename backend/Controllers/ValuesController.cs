@@ -12,9 +12,19 @@ namespace backend.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<List<backend.Blog>> Get()
         {
-            return new string[] { "value1", "value2" };
+            using (var db = new BloggingContext())
+            {
+                db.Blogs.Add(new Blog { Url = "http://blogs.msdn.com/adonet" });
+                var count = db.SaveChanges();
+                Console.WriteLine("{0} records saved to database", count);
+
+                Console.WriteLine();
+                Console.WriteLine("All blogs in database:");
+                
+                return db.Blogs.ToList();
+            }
         }
 
         // GET api/values/5
@@ -28,6 +38,7 @@ namespace backend.Controllers
         [HttpPost]
         public void Post([FromBody] string value)
         {
+            
         }
 
         // PUT api/values/5
