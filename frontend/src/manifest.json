@@ -1,0 +1,10 @@
+{
+    "name": "Angular Test",
+    "short_name": "Angular Test",
+    "theme_color": "#FFFFFF",
+    "background_color": "#3F51B5",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "density": "4.0"
+}
